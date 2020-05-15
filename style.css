@@ -1,0 +1,36 @@
+body {
+    background-image: 
+      url('https://wallpapercave.com/wp/5RyqGLR.jpg');
+    background-size: auto auto;
+    font-family: Impact;
+    height: 100vh
+  }
+  
+  .menu {
+    background-color: #696969;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  .Site_subtitle,
+  .Site_title{
+    text-align: center;
+    color: white;
+  }
+  
+  .Site_subtitle {
+    font-style: italic;
+  }
